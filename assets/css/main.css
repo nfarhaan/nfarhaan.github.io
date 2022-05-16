@@ -85,7 +85,7 @@ input, select, textarea {
 	body {
 		background: #fff;
 		overflow: hidden;
-		filter: invert(0);
+		filter: invert(50);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
