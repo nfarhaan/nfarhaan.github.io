@@ -2282,6 +2282,7 @@ button{
 	.farhaan_tm_intro .demo_list ul li{width: 100%;padding-left: 0px;}
 }
 @media (max-width: 480px) {
+	body{font-size: 16px;}
 	.farhaan_tm_testimonials .list .details{flex-direction: column;align-items: baseline;}
 	.farhaan_tm_testimonials .list .author{margin-bottom: 30px;}
 	.farhaan_tm_testimonials .list .image{width: 75px;height: 75px;}
