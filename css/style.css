@@ -2227,7 +2227,7 @@ button{
 @media (max-width: 1040px) {
 	body{font-size: 16px;}
 	.farhaan_tm_hero .text {font-size: 16px;}
-	body.opened .farhaan_tm .extra {padding-right: 10px; padding-left: 10px;}
+	body.opened .farhaan_tm_hero .extra {padding-right: 10px; padding-left: 10px;}
 
 	.farhaan_tm_mobile_menu{display: block;}
 	.farhaan_tm_sidebar{display: none;}
@@ -2264,7 +2264,7 @@ button{
 @media (max-width: 768px) {
 	body{font-size: 16px;}
 	.farhaan_tm_hero .text {font-size: 16px;}
-	body.opened .farhaan_tm .extra {padding-right: 10px; padding-left: 10px;}
+	body.opened .farhaan_tm_hero .extra {padding-right: 10px; padding-left: 10px;}
 
 
 	.farhaan_tm_about .wrapper{flex-direction: column;align-items: baseline;}
@@ -2303,7 +2303,7 @@ button{
 @media (max-width: 480px) {
 	body{font-size: 16px;}
 	.farhaan_tm_hero .text {font-size: 16px;}
-	body.opened .farhaan_tm .extra {padding-right: 10px; padding-left: 10px;}
+	body.opened .farhaan_tm_hero .extra {padding-right: 10px; padding-left: 10px;}
 
 	.farhaan_tm_testimonials .list .details{flex-direction: column;align-items: baseline;}
 	.farhaan_tm_testimonials .list .author{margin-bottom: 30px;}
