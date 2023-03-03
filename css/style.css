@@ -1571,6 +1571,10 @@ body.opened .farhaan_tm_hero .extra{
 	width: 80px;
 	height: 80px;
 }
+.farhaan_tm_testimonials .icon :hover{
+	transform: scale(1.2);
+	transition: transform .2s;
+}
 
 /*--------------------------------------------------------------------------------------------------------------------*/
 /*	09) farhaan NEWS
