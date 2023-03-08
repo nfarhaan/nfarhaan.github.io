@@ -8,7 +8,7 @@
 05) farhaan ABOUT
 06) farhaan SERVICE
 07) farhaan PORTFOLIO
-08) farhaan TESTIMONIALS
+08) farhaan CERTIFICATIONS
 09) farhaan NEWS
 10) farhaan CONTACT
 11) farhaan MEDIA QUERIES (FOR SMALL DEVIVES)
@@ -1469,10 +1469,10 @@ body.opened .farhaan_tm_hero .extra{
 }
 
 /*---------------------------------------------------*/
-/*	08) farhaan TESTIMONIALS
+/*	08) farhaan CERTIFICATIONS
 /*---------------------------------------------------*/
 
-.farhaan_tm_testimonials{
+.farhaan_tm_certifications{
 	width: 100%;
 	height: auto;
 	clear: both;
@@ -1480,21 +1480,21 @@ body.opened .farhaan_tm_hero .extra{
 	background-color: #F9F9FC;
 	padding: 100px 0px 90px 0px;
 }
-.farhaan_tm_testimonials .list{
+.farhaan_tm_certifications .list{
 	width: 100%;
 	height: auto;
 	clear: both;
 	float: left;
 	padding-top: 60px;
 }
-.farhaan_tm_testimonials .list ul{
+.farhaan_tm_certifications .list ul{
 	margin: 0px;
 	list-style-type: none;
 }
-.farhaan_tm_testimonials .list ul li{
+.farhaan_tm_certifications .list ul li{
 	margin: 0px;
 }
-.farhaan_tm_testimonials .list ul li .list_inner{
+.farhaan_tm_certifications .list ul li .list_inner{
 	width: 100%;
 	height: auto;
 	clear: both;
@@ -1504,23 +1504,23 @@ body.opened .farhaan_tm_hero .extra{
 	padding: 50px 50px 60px 50px;
 	border-radius: 6px;
 }
-.farhaan_tm_testimonials .list .details{
+.farhaan_tm_certifications .list .details{
 	width: 100%;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
 	margin-bottom: 40px;
 }
-.farhaan_tm_testimonials .list .author{
+.farhaan_tm_certifications .list .author{
 	display: flex;
 	align-items: center;
 }
-.farhaan_tm_testimonials .list .image{
+.farhaan_tm_certifications .list .image{
 	position: relative;
 	width: 120px;
 	height: 120px;
 }
-.farhaan_tm_testimonials .list .image .main{
+.farhaan_tm_certifications .list .image .main{
 	position: absolute;
 	top: 0px;
 	bottom: 0px;
@@ -1531,24 +1531,24 @@ body.opened .farhaan_tm_hero .extra{
 	background-size: cover;
 	border-radius: 6px;
 }
-.farhaan_tm_testimonials .list .short{
+.farhaan_tm_certifications .list .short{
 	padding-left: 30px;
 }
-.farhaan_tm_testimonials .list .short h3{
+.farhaan_tm_certifications .list .short h3{
 	font-size: 24px;
 	font-weight: 500;
 }
-.farhaan_tm_testimonials .list .short span{
+.farhaan_tm_certifications .list .short span{
 	font-size: 18px;
 	font-weight: 400;
 }
-.farhaan_tm_testimonials .list .text p{
+.farhaan_tm_certifications .list .text p{
 	font-size: 20px;
 }
-.farhaan_tm_testimonials .owl-theme .owl-nav.disabled+.owl-dots{
+.farhaan_tm_certifications .owl-theme .owl-nav.disabled+.owl-dots{
 	margin-top: 33px;
 }
-.farhaan_tm_testimonials .owl-theme .owl-dots .owl-dot span{
+.farhaan_tm_certifications .owl-theme .owl-dots .owl-dot span{
 	margin: 0px 10px 0px 0px;
 	width: 14px;
 	height: 14px;
@@ -1561,17 +1561,17 @@ body.opened .farhaan_tm_hero .extra{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.farhaan_tm_testimonials .owl-theme .owl-dots .owl-dot.active span{
+.farhaan_tm_certifications .owl-theme .owl-dots .owl-dot.active span{
 	background-color: transparent;
 	border-color: #34495E;
 	width: 16px;
 	height: 16px;
 }
-.farhaan_tm_testimonials .svg{
+.farhaan_tm_certifications .svg{
 	width: 80px;
 	height: 80px;
 }
-.farhaan_tm_testimonials .icon :hover{
+.farhaan_tm_certifications .icon :hover{
 	transform: scale(1.2);
 	transition: transform .2s;
 }
@@ -2197,11 +2197,11 @@ button{
 	.my_carousel .prev_button, .my_carousel .next_button{width: 65px;height: 65px;}
 	.farhaan_tm_services ul li .list_inner{padding-right: 40px;}
 	.farhaan_tm_services ul li h3{font-size: 23px;}
-	.farhaan_tm_testimonials .list .short h3{font-size: 19px;}
-	.farhaan_tm_testimonials .list .short span{font-size: 16px;}
-	.farhaan_tm_testimonials .svg{width: 60px;height: 60px;}
-	.farhaan_tm_testimonials .list .image{width: 100px;height: 100px;}
-	.farhaan_tm_testimonials .list .text p{font-size: 18px;}
+	.farhaan_tm_certifications .list .short h3{font-size: 19px;}
+	.farhaan_tm_certifications .list .short span{font-size: 16px;}
+	.farhaan_tm_certifications .svg{width: 60px;height: 60px;}
+	.farhaan_tm_certifications .list .image{width: 100px;height: 100px;}
+	.farhaan_tm_certifications .list .text p{font-size: 18px;}
 	.farhaan_tm_contact .mainpart .left .title p{font-size: 20px;}
 	
 	.farhaan_tm_sidebar .logo{padding: 30px 40px;}
@@ -2290,7 +2290,7 @@ button{
 	.my_carousel .next_button span:after{width: 15px;bottom: -5px;}
 	.my_carousel .prev_button span:before{width: 15px;top: -5px;}
 	.my_carousel .prev_button span:after{width: 15px;bottom: -5px;}
-	.farhaan_tm_testimonials .list ul li .list_inner{padding-left: 20px;padding-right: 20px;}
+	.farhaan_tm_certifications .list ul li .list_inner{padding-left: 20px;padding-right: 20px;}
 	.farhaan_tm_services ul li .list_inner{padding-left: 20px;padding-right: 20px;}
 	.farhaan_tm_contact .mainpart .left{padding-left: 20px;padding-right: 20px;}
 	.farhaan_tm_contact .extra_info .wrapper > li .list_inner{padding-left: 20px;padding-right: 20px;}
@@ -2307,11 +2307,11 @@ button{
 	body{font-size: 16px;}
 	.farhaan_tm_hero .text {font-size: 16px; padding-right: 10px; padding-left: 10px;}
 
-	.farhaan_tm_testimonials .list .details{flex-direction: column;align-items: baseline;}
-	.farhaan_tm_testimonials .list .author{margin-bottom: 30px;}
-	.farhaan_tm_testimonials .list .image{width: 75px;height: 75px;}
-	.farhaan_tm_testimonials .list .short h3{font-size: 17px;}
-	.farhaan_tm_testimonials .list .short span{font-size: 14px;}
-	.farhaan_tm_testimonials .list .text p{font-size: 17px;}
-	.farhaan_tm_testimonials .list .details{margin-bottom: 25px;}
+	.farhaan_tm_certifications .list .details{flex-direction: column;align-items: baseline;}
+	.farhaan_tm_certifications .list .author{margin-bottom: 30px;}
+	.farhaan_tm_certifications .list .image{width: 75px;height: 75px;}
+	.farhaan_tm_certifications .list .short h3{font-size: 17px;}
+	.farhaan_tm_certifications .list .short span{font-size: 14px;}
+	.farhaan_tm_certifications .list .text p{font-size: 17px;}
+	.farhaan_tm_certifications .list .details{margin-bottom: 25px;}
 }

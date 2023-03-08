@@ -36,7 +36,7 @@ function farhaan_tm_owl_carousel(){
 	"use strict";
 	
 	var carousel			= jQuery('.my_carousel .owl-carousel');
-	var carousel2			= jQuery('.farhaan_tm_testimonials .owl-carousel');
+	var carousel2			= jQuery('.farhaan_tm_certifications .owl-carousel');
 	
 	var rtlMode	= false;
 
