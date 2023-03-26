@@ -235,7 +235,7 @@ body.intro #preloader:after{
     width: 50%;
     height: 100%;
     z-index: -1;
-    background-color: #fff;
+    background-color: #000000;
     -webkit-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
