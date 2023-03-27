@@ -31,6 +31,10 @@ body{
 	font-weight: 400;
 	background-color: #fff;
 	color: #7e7e7e;
+	-webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 body::-webkit-scrollbar {
   width: 11px;
