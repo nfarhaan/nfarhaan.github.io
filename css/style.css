@@ -394,7 +394,7 @@ body.dark .loader_line:after{
 	transform: scale(1.1);
 }
 
-.farhaan_tm_button_dropdown_resume button{
+.farhaan_tm_button_dropdown_green button{
 	text-decoration: none;
 	align-content: center;
 	color: #6fe2c2;
@@ -411,7 +411,7 @@ body.dark .loader_line:after{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.farhaan_tm_button_dropdown_resume button:hover{
+.farhaan_tm_button_dropdown_green button:hover{
 	color: rgb(0, 0, 0);
 	background-color: #ffffff;
 	border-color: #ffffff;
@@ -577,7 +577,7 @@ body.opened .farhaan_tm_sidebar{
 	        transition: all .3s ease;
 }
 
-.farhaan_tm_button_resume button{
+.farhaan_tm_button_green button{
 	text-decoration: none;
 	align-content: center;
 	width: 100%;
@@ -596,7 +596,7 @@ body.opened .farhaan_tm_sidebar{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.farhaan_tm_button_resume button:hover{
+.farhaan_tm_button_green button:hover{
 	color: rgb(0, 0, 0);
 	background-color: #ffffff;
 	border-color: #ffffff;
