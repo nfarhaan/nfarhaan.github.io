@@ -840,3 +840,8 @@ input, select, textarea {
 		pointer-events: none;
 
 }
+
+.green{
+	color:#64ffda;
+	text-decoration: none;
+  }
