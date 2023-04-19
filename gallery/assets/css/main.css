@@ -325,7 +325,7 @@ input, select, textarea {
 		cursor: -webkit-grab;
 		cursor: -ms-grab;
 		cursor: grab;
-		z-index: 10001;
+		z-index: 9999;
 	}
 
 		.scrollZone.left {
@@ -630,7 +630,7 @@ input, select, textarea {
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		position: relative;
-		z-index: 10002;
+		z-index: 9999;
 	}
 
 		#footer > section:first-child {
