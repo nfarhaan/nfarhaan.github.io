@@ -785,7 +785,7 @@ input, select, textarea {
 				font-weight: 900;
 			}
 
-		.poptrox-popup .nav-next {
+		/* .poptrox-popup .nav-next {
 			right: 0;
 			text-align: right;
 			padding-right: 30px;
@@ -803,7 +803,7 @@ input, select, textarea {
 
 			.poptrox-popup .nav-previous:before {
 				content: '\f104';
-			}
+			} */
 /* MOBILE */
 		@media screen and (max-width: 736px) {
 
