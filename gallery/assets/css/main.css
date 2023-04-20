@@ -446,10 +446,10 @@ input, select, textarea {
 					bottom: 0;
 					left: 0;
 					background: rgba(18, 21, 29, 0.85);
-					width: 100%;
+					/* width: 100%; */
 					padding: 1em;
 					font-weight: 400;
-					line-height: 1em;
+					line-height: 0.5em;
 					z-index: 2;
 				}
 
