@@ -727,7 +727,7 @@ input, select, textarea {
 			top: 50%;
 			left: 50%;
 			margin: -24px 0 0 -24px;
-			background: url("images/loader.gif");
+			background: url("images/loader.svg");
 			opacity: 0.25;
 		}
 
