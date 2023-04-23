@@ -437,15 +437,15 @@ input, select, textarea {
 			}
 
 				#main .item.thumb h2 {
-					position: absolute;
+					/* position: absolute;
 					bottom: 0;
 					left: 0;
 					background: rgba(18, 21, 29, 0.85);
-					/* width: 100%; */
 					padding: 1em;
 					font-weight: 400;
 					line-height: 0.5em;
-					z-index: 2;
+					z-index: 2; */
+					display:none;
 				}
 
 				#main .item.thumb img {
