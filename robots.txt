@@ -1,0 +1,14 @@
+User-agent: *
+# Repeated 'disallow' rules for each image:
+Disallow: /mainpart/profile/social/md.svg
+Disallow: /mainpart/profile/social/ig.svg
+Disallow: /mainpart/profile/social/gh.svg
+Disallow: /mainpart/profile/social/in.svg
+Disallow: /mainpart/profile/social/tw.svg
+Disallow: /mainpart/certifications/link.svg
+Disallow: /sidebar/nav/home.svg
+Disallow: /sidebar/nav/service.svg
+Disallow: /sidebar/nav/portfolio.svg
+Disallow: /sidebar/nav/certification.png
+Disallow: /sidebar/nav/blog.svg
+Disallow: /sidebar/nav/contact.svg
