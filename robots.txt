@@ -12,3 +12,7 @@ Disallow: /sidebar/nav/portfolio.svg
 Disallow: /sidebar/nav/certification.png
 Disallow: /sidebar/nav/blog.svg
 Disallow: /sidebar/nav/contact.svg
+Disallow: /mainpart/what i do/photography/photography.svg
+Disallow: /mainpart/what i do/back-end.svg
+Disallow: /mainpart/what i do/contentcreation.svg
+Disallow: /mainpart/what i do/front-end.svg
