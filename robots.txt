@@ -1,18 +1,12 @@
 User-agent: *
-# Repeated 'disallow' rules for each image:
-Disallow: /mainpart/profile/social/md.svg
-Disallow: /mainpart/profile/social/ig.svg
-Disallow: /mainpart/profile/social/gh.svg
-Disallow: /mainpart/profile/social/in.svg
-Disallow: /mainpart/profile/social/tw.svg
+Disallow: /mainpart/profile/social/
+Disallow: /mainpart/allwrap/
+Disallow: /mainpart/certifications/logo/
 Disallow: /mainpart/certifications/link.svg
-Disallow: /sidebar/nav/home.svg
-Disallow: /sidebar/nav/service.svg
-Disallow: /sidebar/nav/portfolio.svg
-Disallow: /sidebar/nav/certification.png
-Disallow: /sidebar/nav/blog.svg
-Disallow: /sidebar/nav/contact.svg
-Disallow: /mainpart/what i do/photography/photography.svg
-Disallow: /mainpart/what i do/back-end.svg
-Disallow: /mainpart/what i do/contentcreation.svg
-Disallow: /mainpart/what i do/front-end.svg
+Disallow: /mainpart/profile/social/
+Disallow: /mainpart/what%20i%20do/
+Disallow: /sidebar/nav/
+Disallow: /Undermaintainance/
+Disallow: /img/thumbs/
+Disallow: /gallery/
+Disallow: /Additional%20Assets/Logo%20Green%20Accent%20Favicon.png
